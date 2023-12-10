@@ -8,7 +8,7 @@ stash 개요와 필요성
 예)주요 명령
 $git stash
 $git stash -m '임시저장 메시지'
-$git stash save
+$git stash saveDASDAS
 $git stash save '임시저장 메시지'
 한줄 정리
 -->현재의 작업영역과 스테이지 영역에 있는 파일들을 임시보관, 필요에 따라 메시지를 입력 할 수 있다.
