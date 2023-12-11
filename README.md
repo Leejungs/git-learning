@@ -40,19 +40,19 @@ $ git branch - 저장소 목록 보기<br>
 $ git checkout -b - 저장소 생성만<br>
 $ git switch -c - 저장소 생성하고 이동<br>
 $ git branch -d branch-name - 저장소 삭제<br>
-$ git branch -o branch-name - 저장소 삭제, 강제 삭제<p>
+$ git branch -o branch-name - 저장소 삭제, 강제 삭제<br>
 
 ### 원격 저장소
-$ git clone https://github.com/ai7dnn/repo-sync.git - 원격 저장소 복제
-$ git pull origin main - 원격 저장소 수정 사항 pull로 지역 저장소로 가져오기
-$ git fetch origin main - 원격 저장소 수정 사항 fetch로 지역 저장소로 가져와 병합하기
-$ git push origin main - 지역 저장소 수정 사항 push로 원격 저장소 보내기
+$ git clone https://github.com/ai7dnn/repo-sync.git - 원격 저장소 복제<br>
+$ git pull origin main - 원격 저장소 수정 사항 pull로 지역 저장소로 가져오기<br>
+$ git fetch origin main - 원격 저장소 수정 사항 fetch로 지역 저장소로 가져와 병합하기<br>
+$ git push origin main - 지역 저장소 수정 사항 push로 원격 저장소 보내기<br>
 
 ### 브랜치 병합
-$ git merge hotfix - 기준 브랜치에서 hotfix 브랜치 병합
-$ git merge --no-ff hotfix - 무조건 3-way 병합 수행
-$ git merge --ff-only hotfix - fast-forward인 경우에만 병합 진행
-$ git merge --squash hotfix - 현재 브랜치에서 커밋 하나만 생성해서 병합
+$ git merge hotfix - 기준 브랜치에서 hotfix 브랜치 병합<br>
+$ git merge --no-ff hotfix - 무조건 3-way 병합 수행<br>
+$ git merge --ff-only hotfix - fast-forward인 경우에만 병합 진행<br>
+$ git merge --squash hotfix - 현재 브랜치에서 커밋 하나만 생성해서 병합<br>
 
 ### 버전 되돌리기
-$ git reset --hard ORIG HEAD - 이전에 수행한 reset을 바로 취소하는 명령
+$ git reset --hard ORIG HEAD - 이전에 수행한 reset을 바로 취소하는 명령<p>
