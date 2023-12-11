@@ -7,7 +7,7 @@ stash 개요와 필요성
 즉 명령 stash로 작업 영역(working directory)과 스테이지 영역(stage area)을 스택구조에 stash에 임시로 저장함. 명령 stash와 stash save로 작업 영역의 modified인 파일과 스테이지 영역에 있는 파일들을 임시 보관할 수 있다.
 예)주요 명령
 $git stashDSADAS
-$git stash -m '임시저장 메시지'
+$git stash -m '임시저장 메시지'ㅇㄴㅁ
 $git stash saveDASDAS
 $git stash save '임시저장 메시지'
 한줄 정리ㅇㅁㄴㅇㄴㅁㅇㅁㄴㅇㄴㅁ
