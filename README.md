@@ -6,7 +6,7 @@ $ git config --global core.safecrlf false - 줄바꿈 안전 설정 <br>
 $ git config --global core.editor 'code --wait' - 기본 편집기 설정 <br>
 $ git config --global init.defaultBranch main - 기본 브랜치 이름 <br>
 
-저장소 생성
+### 저장소 생성
 $ git init - 현재 티렉토리를 git repository로 만들기 위해서 사용<br>
 $ git init basic - 현재 폴더 하부에 폴더 basic을 생성하고 git repository로 만들기 위해서 사용<br>
 
