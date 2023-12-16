@@ -1,4 +1,4 @@
-### 깃 설정 6가지ㅇㄴㅁㅇㅁㄴㅇㅁㄴㅇㅁㄴ
+### 깃 설정 6가지
 $ git config --global user.name suminying - 사용자 이름 <br>
 $ git config --global user.email wjdtndpdy0920@naver.com - 사용자 전자메일 <br>
 $ git config --global core.autocrlf true - 줄바꿈 자동변환 <br>
