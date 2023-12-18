@@ -10,7 +10,7 @@ $ git config --global init.defaultBranch main - 기본 브랜치 이름 <br>
 $ git init - 현재 티렉토리를 git repository로 만들기 위해서 사용<br>
 $ git init basic - 현재 폴더 하부에 폴더 basic을 생성하고 git repository로 만들기 위해서 사용<br>
 dd
-### 커밋
+### 커밋dd
 $ git commit - 커밋 메시지를 입력할 기본 편집기 실행됨<br>
 $ git commit -m 'message' - 커밋 메시지를 직접 입력<br>
 $ git commit -a -m 'message' - 추가와 커밋을 함께 실행<br>
